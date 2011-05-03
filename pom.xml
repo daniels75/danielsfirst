@@ -20,7 +20,7 @@
         <dependency>
             <groupId>hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
-            <version>1.8.0.71111</version>
+            <version>1.8.0.711112</version>
         </dependency>
 		
         
