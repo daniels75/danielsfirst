@@ -4,7 +4,7 @@
     <artifactId>danielsfirst</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>vote Tapestry 5 Application</name>
+    <name>vote Tapestry 5 Application1</name>
         <dependencies>
         <dependency>
             <groupId>org.apache.tapestry</groupId>
